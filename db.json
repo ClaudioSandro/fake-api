@@ -37,31 +37,6 @@
         "description": "Free subscription",
         "number_of_patients": 5
       }
-    ],
-    "patients": [
-      {
-        "id": 1,
-        "name": "Carlos",
-        "lastname": "Perez",
-        "gender": "M",
-        "birthdate": "1990-01-01",
-        "civil_status": "Single",
-        "nationality": "Mexican",
-        "type_of_blood": "A+",
-        "image": "image5.jpg",
-        "phone": "987456321",
-        "email": "carlosperez1@gmail.com",
-        "password": "password741",
-        "disease_id": 1,
-        "medical_history_id": 1,
-        "occupation": "Engineer"
-      }
-    ],
-    "diseases": [
-      {
-        "id": 1,
-        "name": "Diabetes"
-      }
     ]
   }
   

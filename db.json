@@ -1,5 +1,15 @@
 
 {
+    "patient-appointments": [
+        {
+          "name": "Juan Pérez",
+          "age": 28,
+          "typeOfCare": "First date",
+          "hour": "09:00 AM",
+          "diagnosis": "Evaluación inicial",
+          "alert": "-"
+        },
+    ],    
     "doctors": [
       {
         "id": 1,

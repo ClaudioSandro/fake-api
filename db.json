@@ -1,88 +1,5 @@
 
 {
-    "patient-appointments": [
-      {
-        "name": "Juan Pérez",
-        "age": 28,
-        "typeOfCare": "First date",
-        "hour": "09:00 AM",
-        "diagnosis": "Evaluación inicial",
-        "alert": "-"
-      },
-      {
-        "name": "María García",
-        "age": 40,
-        "typeOfCare": "First date",
-        "hour": "09:30 AM",
-        "diagnosis": "Revisión general",
-        "alert": "-"
-      },
-      {
-        "name": "Luisa Rodríguez",
-        "age": 35,
-        "typeOfCare": "First date",
-        "hour": "10:00 AM",
-        "diagnosis": "Examen inicial",
-        "alert": "-"
-      },
-      {
-        "name": "Pedro Sánchez",
-        "age": 45,
-        "typeOfCare": "First date",
-        "hour": "10:30 AM",
-        "diagnosis": "Consulta médica",
-        "alert": "-"
-      },
-      {
-        "name": "Ana Martínez",
-        "age": 32,
-        "typeOfCare": "First date",
-        "hour": "11:00 AM",
-        "diagnosis": "Chequeo completo",
-        "alert": "-"
-      },
-      {
-        "name": "Carlos Gómez",
-        "age": 55,
-        "typeOfCare": "First date",
-        "hour": "11:30 AM",
-        "diagnosis": "Examen de rutina",
-        "alert": "-"
-      },
-      {
-        "name": "Laura Fernández",
-        "age": 30,
-        "typeOfCare": "First date",
-        "hour": "12:00 PM",
-        "diagnosis": "Consulta general",
-        "alert": "-"
-      },
-      {
-        "name": "José López",
-        "age": 48,
-        "typeOfCare": "First date",
-        "hour": "12:30 PM",
-        "diagnosis": "Evaluación inicial",
-        "alert": "-"
-      },
-      {
-        "name": "Mónica Ramirez",
-        "age": 25,
-        "typeOfCare": "First date",
-        "hour": "01:00 PM",
-        "diagnosis": "Examen de ingreso",
-        "alert": "-"
-      },
-      {
-        "name": "Diego Castro",
-        "age": 38,
-        "typeOfCare": "First date",
-        "hour": "01:30 PM",
-        "diagnosis": "Consulta médica",
-        "alert": "-"
-      }
-    ],
-  
     "doctors": [
       {
         "id": 1,
@@ -137,24 +54,6 @@
         "subscription_id": 3,
         "email": "lauramartinez@example.com",
         "password": "password456"
-      },
-      {
-        "id": 4,
-        "name": "Pedro",
-        "lastname": "Sanchez",
-        "fee": 110,
-        "gender": "M",
-        "image": "https://ahoradoctor.cl/wp-content/uploads/elementor/thumbs/diverse-medical-team-of-doctors-looking-at-camera-while-holding-clipboard-and-medical-files-q91hedrgoecd6roezsuj57fxuxgrvjgk482bfu8074.jpg",
-        "title": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/681abea2-21e6-44f4-9f13-43f09aa3ba1a/deygw0q-42578228-7525-4f9f-bf17-764eaa5421f3.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzY4MWFiZWEyLTIxZTYtNDRmNC05ZjEzLTQzZjA5YWEzYmExYVwvZGV5Z3cwcS00MjU3ODIyOC03NTI1LTRmOWYtYmYxNy03NjRlYWE1NDIxZjMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.lPv1Kbbi1xGfJC_E7l7QU7YZJ05P8ZsUZodKjykW9i8",
-        "college_number": "13579",
-        "RNE": "RNE135",
-        "undergraduate": "General Medicine",
-        "specialty": "Endocrinology",
-        "sub_speciality": "Hormones",
-        "code_of_doctor": "d202400004",
-        "subscription_id": 4,
-        "email": "pedrosanchez@example.com",
-        "password": "password789"
       }
     ]
   }
